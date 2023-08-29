@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Halil ibrahim Gedik . I'm from Turkey<br><br>- 🔭 I'm a 4th year computer engineering student at Düzce University.<br>- 📚 I am currently progressing field of Backend Developer<br>- ⚡I am open to improve myself.</p>
+<p align="left">I'm Halil ibrahim Gedik . I'm from Turkey<br><br>- 🔭 I'm a 4th year computer engineering student at Düzce University.<br>- 📚 I am currently progressing field of Backend Developer<br>- ⚡I am open to improve myself.<br>- 💻 https://halilgedik.com.tr</p>
 
 ###
 
